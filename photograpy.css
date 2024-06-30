@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    background-color: #FAFAFA;
+}
+.gray{
+    background-color:  #FE8C45;
+    color:#FAFAFA
+    ;
+}
+.purpal{
+    color: rgb(148, 40, 148);
+    ;
+}
+.img1{
+    width: 390px;
+height: 450px;
+
+
+gap: 0px;
+/* border-radius: 15px 0px 0px 0px; */
+opacity: 0px;
+
+}
+card1{
+    width: 350px;
+height: 350px;
+
+
+gap: 0px;
+
+opacity: 0px;
+
+}
+.black1{
+    background-color: #222222;
+    color:#FAFAFA
+}
+.img2{
+    width: 51px;
+    height: 51px;
+    border: 2px solid #FFFFFF;
+    gap: 0px;
+    opacity: 0px;
+    
+    
+
+}
+.text2{
+    font-family: Quicksand;
+font-size: 22px;
+font-weight: 600;
+line-height: 22px;
+
+
+}
+.text1{
+    font-family: Quicksand;
+font-size: 18px;
+font-weight: 400;
+line-height: 28px;
+color: #333333;
+
+
+}
+.mincard{
+    width: 249px;
+height: 46px;
+
+
+gap: 0px;
+opacity: 0px;
+
+}
